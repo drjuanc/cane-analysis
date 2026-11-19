@@ -7,7 +7,7 @@ Interactive dashboards for the Clinical Associate National Examination (CANE), c
 
 ## Dashboards
 
-- [CANE 2026](https://YOUR-USERNAME.github.io/cane/cane2026/)
+- [CANE 2026](https://drjuanc.github.io/cane/cane2026/)
 
 ## What each dashboard shows
 
